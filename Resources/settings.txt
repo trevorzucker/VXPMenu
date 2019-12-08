@@ -1,0 +1,31 @@
+﻿game "Quake 3" "/home/pi/ioquake3.arm" false
+game "MCPi" "minecraft-pi" false
+game "Example" "/home/pi/ioquake3.arm" false
+game "Example1" "/home/pi/ioquake3.arm" false
+game "Example2" "/home/pi/ioquake3.arm" false
+game "Example3" "/home/pi/ioquake3.arm" false
+game "Example4" "/home/pi/ioquake3.arm" false
+game "Example5" "/home/pi/ioquake3.arm" false
+game "Example6" "/home/pi/ioquake3.arm" false
+game "Example7" "/home/pi/ioquake3.arm" false
+game "Example8" "/home/pi/ioquake3.arm" false
+game "Example9" "/home/pi/ioquake3.arm" false
+game "Example10" "/home/pi/ioquake3.arm" false
+game "Example11" "/home/pi/ioquake3.arm" false
+game "Example12" "/home/pi/ioquake3.arm" false
+game "Example13" "/home/pi/ioquake3.arm" false
+game "Example14" "/home/pi/ioquake3.arm" false
+game "Example15" "/home/pi/ioquake3.arm" false
+game "Example16" "/home/pi/ioquake3.arm" false
+emulator "Nintendo 64" "n64" false
+emulator "GBA" "gba" false
+emulator "PSOne" "psone" false
+emulator "SNES" "snes" false
+setting primarycolor 255 255 255
+setting secondarycolor 233 233 231
+setting thirdcolor 210 77 87
+setting tabcolor 210 77 87
+setting textcolor 60 60 60
+setting fourthcolor 60 60 60
+power poweroff
+power reboot
